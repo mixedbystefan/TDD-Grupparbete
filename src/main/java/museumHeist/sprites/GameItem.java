@@ -1,5 +1,5 @@
 package museumHeist.sprites;
 
-public class GameItem {
+public abstract class GameItem {
 	
 }
