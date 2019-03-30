@@ -1,5 +1,5 @@
 # Treasures Quest
-Grupparbete - Testdriven Utveckling
+** Grupparbete - Testdriven Utveckling**
 
 
 Syftet med uppgiften är att med hjälp av JUnit skriva tester som ska stå som grund för implementerad funktionalitet - att expandera applikationen utifrån dessa. Som platform för sammarbetet används Github där dokumentation och kod redovisas.
